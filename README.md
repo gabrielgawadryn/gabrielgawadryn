@@ -6,15 +6,21 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabrielgawadryn/gabrielgawadryn/output/github-contribution-grid-snake.svg" />
-  <br>
 </div>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<br>
-
-<div align="center" >
+<div align="center">
+  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,htmx,alpinejs,tailwind,python,django,fastapi,git,docker,github,githubactions,gcp" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,ruby" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,rails,bootstrap,tailwind,htmx,alpinejs" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,git,github,githubactions,docker,gcp,vercel" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,obsidian,linux" />
   </a>
 </div>
