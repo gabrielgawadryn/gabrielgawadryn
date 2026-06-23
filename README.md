@@ -12,6 +12,6 @@
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,django,fastapi,bootstrap,react,tailwind,htmx,alpinejs,postgres,mongodb,git,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,fastapi,bootstrap,tailwind,htmx,alpinejs,postgres,git,gcp,docker" />
   </a>
 </div>
