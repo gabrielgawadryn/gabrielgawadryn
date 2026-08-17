@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Gabriel! 👋</h1>
-  <p>Support and Deployment Analyst | Transitioning to Data & Analytics</p>
+  <p>Support & Deployment Analyst | Transitioning to Data & Analytics</p>
 </div>
 
 <!-- BANNER / ESTATÍSTICAS -->
